@@ -13,4 +13,4 @@ Para facilitar a vida, considere apenas 4 linhas do metrô.
 - tempo gasto para trocar de linha dentro de mesma estação (fazer baldeação) é de 4 minutos.
 
 Formule e implemente este problema em termos de estado inicial, estado final,
-operadores e função de avaliação para **Busca heurística com A*.
+operadores e função de avaliação para **Busca heurística com A***.
