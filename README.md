@@ -1,2 +1,2 @@
-# metro_em_paris
+# Problema do metrô em Paris
 Atividade 1 - Inteligência Artificial
